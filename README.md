@@ -1,5 +1,5 @@
 クローンのところから、GitのURLを取ってくる。
-<<<<<<< HEAD
+HEAD
 →開発者に配ります．
 =======
 →開発者に配る。
@@ -10,6 +10,6 @@ git init
 →git commit
 →git  push oringn master
 
->>>>>>> f78305e18981bc01f8fc96534ad1f3de03b414b0
+ f78305e18981bc01f8fc96534ad1f3de03b414b0
 
 yamama
