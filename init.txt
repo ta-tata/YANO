@@ -1,0 +1,30 @@
+GitHub　使い方
+
+はじめからていねいに
+cdでgitを使いたい場所に移動
+git clone URL　ディレクトリ作成
+git init　リポジトリ作成
+git add ファイル名.txt
+git commit -m “コメント”
+git commit -a -m
+git remote add origin コピーしたURL　2回目以降：git push origin ブランチ名 　ブランチに変更点を更新
+git push origin ブランチ名　でユーザー名とパスワード入力
+2回目から
+git add ファイル名.txt
+git commit -m “コメント”（git commit -a -m）
+git push origin ブランチ名
+
+諸々
+git log
+git remote -v
+git branch　ブランチを一覧表示
+git branch ブランチ名　ブランチ作成
+git checkout ブランチ名　ブランチ変更
+
+
+vi使い方
+vi ファイル名.txt
+aを押すと入力モード
+escを押すとコマンドモード
+コマンドモードで:wqを押すとセーブして終了
+:qでセーブしないで終了
